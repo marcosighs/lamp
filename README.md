@@ -9,3 +9,4 @@ Clicando duas vezes sobre a imagem a lâmpada é quebrada. Ao recarregar a pági
 The page was made using HTML, CSS, and JavaScript. In the HTML we have a simple page structure with a title, basic texts located in paragraph tags and two buttons. One to turn on (On) and the other to turn off (Off).
 
 Clicking twice on the image makes the lamp break. It is also possible to turn on the lamp putting the mouse over the image, and turn it off when the mouse is not over the image anymore.# lamp
+# lamp
