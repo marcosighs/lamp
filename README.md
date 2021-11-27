@@ -10,3 +10,4 @@ The page was made using HTML, CSS, and JavaScript. In the HTML we have a simple 
 
 Clicking twice on the image makes the lamp break. It is also possible to turn on the lamp putting the mouse over the image, and turn it off when the mouse is not over the image anymore.# lamp
 # lamp
+# lamp
